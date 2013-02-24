@@ -9,6 +9,7 @@ Example
 
     http://host/?show_zero_stock=true
 or
+
     http://host/t/taxon?show_zero_stock=true    
 
 Testing
